@@ -1,0 +1,57 @@
+/*AFTERNOON CLASSWORK */
+
+
+body{
+    background-color: coral;
+}
+
+header{
+
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    background: grey;
+    color: red;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 30px;
+}
+
+
+li{
+
+    background: url("img/cake.PNG") 0 50% no-repeat;
+    list-style-type: none;
+    padding-left: 60px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+
+
+}
+
+
+section{
+
+    float: left;
+    margin-left: 10%;
+}
+
+
+img{
+    padding: 5px ;
+    border: 3px solid crimson;
+    width:35%;
+    float:right;
+    margin-bottom: 20px;
+    margin-right: 15%;
+    background-color:  white;
+
+}
+
+iframe{
+    clear: both;
+    width: 100%;
+    height: 300px;
+
+}

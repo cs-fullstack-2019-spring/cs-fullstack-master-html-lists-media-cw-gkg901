@@ -1,0 +1,26 @@
+
+header{
+
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    border: 3px solid blue;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+
+
+h1{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+ul {
+    list-style: disc;
+
+}
+
+.kevin{
+    list-style: none;
+}
