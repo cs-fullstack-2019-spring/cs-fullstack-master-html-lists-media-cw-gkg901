@@ -1,3 +1,7 @@
+### 2 POINTS
+### KEY: Not bad, but no inline styles in HTML. BOO! :-P
+### You got the hardest bits, so u still get the points, but see my edits
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
